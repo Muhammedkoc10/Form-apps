@@ -1,0 +1,10 @@
+C:\Users\muham\source\repos\07-Timer\6-SayıTahminOyunu\bin\Debug\6-SayıTahminOyunu.exe.config
+C:\Users\muham\source\repos\07-Timer\6-SayıTahminOyunu\bin\Debug\6-SayıTahminOyunu.exe
+C:\Users\muham\source\repos\07-Timer\6-SayıTahminOyunu\bin\Debug\6-SayıTahminOyunu.pdb
+C:\Users\muham\source\repos\07-Timer\6-SayıTahminOyunu\obj\Debug\6-SayıTahminOyunu.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\07-Timer\6-SayıTahminOyunu\obj\Debug\_6_SayıTahminOyunu.Form1.resources
+C:\Users\muham\source\repos\07-Timer\6-SayıTahminOyunu\obj\Debug\_6_SayıTahminOyunu.Properties.Resources.resources
+C:\Users\muham\source\repos\07-Timer\6-SayıTahminOyunu\obj\Debug\6-SayıTahminOyunu.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\07-Timer\6-SayıTahminOyunu\obj\Debug\6-SayıTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\07-Timer\6-SayıTahminOyunu\obj\Debug\6-SayıTahminOyunu.exe
+C:\Users\muham\source\repos\07-Timer\6-SayıTahminOyunu\obj\Debug\6-SayıTahminOyunu.pdb

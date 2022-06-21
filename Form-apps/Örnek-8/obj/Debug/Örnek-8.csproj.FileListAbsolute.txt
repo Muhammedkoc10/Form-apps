@@ -1,0 +1,9 @@
+C:\Users\muham\source\repos\07-Timer\Örnek-8\bin\Debug\Örnek-8.exe.config
+C:\Users\muham\source\repos\07-Timer\Örnek-8\bin\Debug\Örnek-8.exe
+C:\Users\muham\source\repos\07-Timer\Örnek-8\bin\Debug\Örnek-8.pdb
+C:\Users\muham\source\repos\07-Timer\Örnek-8\obj\Debug\Örnek_8.Form1.resources
+C:\Users\muham\source\repos\07-Timer\Örnek-8\obj\Debug\Örnek_8.Properties.Resources.resources
+C:\Users\muham\source\repos\07-Timer\Örnek-8\obj\Debug\Örnek-8.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\07-Timer\Örnek-8\obj\Debug\Örnek-8.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\07-Timer\Örnek-8\obj\Debug\Örnek-8.exe
+C:\Users\muham\source\repos\07-Timer\Örnek-8\obj\Debug\Örnek-8.pdb
